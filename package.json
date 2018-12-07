@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dependabot-fixtures/test-missing-dep-name-npm-package/issues"
   },
-  "homepage": "https://github.com/dependabot-fixtures/test-missing-dep-name-npm-package#readme"
+  "homepage": "https://github.com/dependabot-fixtures/test-missing-dep-name-npm-package#readme",
+  "dependencies": {
+    "@dependabot-fixtures/dummy": "^1.0.0"
+  }
 }
